@@ -1,5 +1,5 @@
 ### Technologies used
-- Java 8
+- Java 1.8.0_121
 - Spark Framework
 - Maven
 - concurrency utilities to handle multiple requests
